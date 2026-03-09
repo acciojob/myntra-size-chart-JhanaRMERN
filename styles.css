@@ -1,16 +1,15 @@
-
-/* Your CSS Code here. */
-table{
-border-collapse: collapse;
+table {
+	border-collapse: collapse;
+	width: 60%;
 }
 thead {
-  background-color: saddlebrown;
+	background-color: brown;
+	color: white;
 }
-th, td{
-border:1px solid pink;
-padding:8px;
-text-align:center;
+
+th, td {
+	border: 1px solid black;
+	padding: 8px;
+	text-align: center;
 }
-tbody {
-  background-color: lightgray;
-}
+
